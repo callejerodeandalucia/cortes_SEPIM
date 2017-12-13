@@ -1,24 +1,30 @@
-TÃ­tulo (30)
-===========
+Título:
 
-DescripciÃ³n breve (80)
-======================
+GUÍA DE CORTES DE LA FRONTERA
 
-DescripciÃ³n completa (4000)
-===========================
 
-Etiquetas	
-===========
+Descripción breve:
 
-Notas de versiÃ³n
-=================
-VersiÃ³n inicial
+Guía turística oficial de Cortes de la Frontera.
 
-****aÃ±adir algo aquÃ­ si se publica en forma de actualizaciÃ³n***
+Descripción completa:
 
-Sitio web
-=========
 
-Correo electrÃ³nico
-==================
+Con la Aplicación “Guía Oficial de Cortes de la Frontera”, llevarás nuestro municipio en Tú Bolsillo!
+
+Es una aplicación desarrollada por el Ayuntamiento de Cortes de la Frontera y pretende ser un canal más de información y comunicación entre el ciudadano residente y visitante y la Administración.
+
+La idea inicial de esta aplicación es ofrecer una guía en la que se puede encontrar (a través de la geolocalización en un plano) la máxima información de Cortes de la Frontera  desde una visión general, así como detallada, que servirá en la vida cotidiana a todo aquel (turista o visitante) que se acerque a esta bella ciudad.
+
+Esta guía es muy útil para moverse por sus calles y, de forma rápida y ágil, localizar y llamar a los teléfonos de urgencias y emergencias, centros de salud, hoteles, restaurantes, colegios, guarderías, supermercados, organismos públicos, bancos, localizar cajeros automáticos, asociaciones, farmacias, así como conocer sus fiestas y costumbres, ocio, cultura, artesanía, monumentos y demás lugares de interés.
+
+Esta aplicación no solo indica la ubicación, sino que incluso, usando la tecnología GPS, guiará hasta el lugar solicitado e incluso ofrece la posibilidad de realizar llamadas o enviar correos electrónicos para contactar, así como visitar sus sitios web o redes sociales. Para poder identificar mejor la ubicación la aplicación ofrece una imagen de la fachada donde está ubicado el lugar de la búsqueda a la vez que ofrece una breve descripción informativa (ej: horarios y otros datos de interés).
+
+La aplicación dispone de un servicio "Cerca de mí" que usando la tecnología del GPS indicará al ciudadano todos los elementos de interés cercanos a su posición.
+
+Cortes de la Frontera Cortes de la Frontera con una superficie de 17.000 Has. de bosque alcornocal, está situado en las últimas estribaciones de la Serranía de Ronda y al oeste de la provincia de Málaga.
+
+Con una población de unos 3.700 habitantes, denominados cortesanos, y repartidos en tres núcleos urbanos (Cortes de la Frontera, Cañada del Real Tesoro y Barriada El Colmenar), se caracteriza por su gran valor ecológico, su singular herencia cultural y por el mantenimiento de antiguas costumbres y tradiciones, dando lugar todo ello a su más que evidente vocación medioambiental y turística, haciendo así alarde de su privilegiada situación natural entre los Parques Naturales de la “Sierra de Grazalema” y “Los Alcornocales”.
+Uno de los mayores atractivos del entorno de Cortes de la Frontera lo constituye el fabuloso cuadro de contrastes paisajísticos, proporcionando al visitante la posibilidad de pasar, en un corto paseo de zonas con formaciones calizas, como cuevas, colinas, gargantas, simas, etc., a otra área donde predominan los estratos de areniscas y donde se encuentran extensos alcornocales de gran valor botánico y forestal (como La Sauceda), uniendo a todo ello el encanto del Valle del Río Guadiaro que nos ofrece su bosque de rivera en buen estado de conservación.
+Su historia y origen se remonta a los siglos XII y XI a C. con el paso de los Fenicios que se asentaron sobre su término al vencer a los Tartesos. Posteriormente esta zona fue ocupada por los griegos focenses, en constante rivalidad con los púnicos; más sus primeros grandes pobladores fueron los romanos que la bautizaron con el nombre de Cortex (coraza, defensa), nombre que posteriormente fue respetado por los árabes y llegó hasta nosotros.
 
